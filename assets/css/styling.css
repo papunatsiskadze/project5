@@ -1,0 +1,53 @@
+body{
+    background-color: thistle;
+    margin: ;
+}
+.header-div{
+    display: flex;
+    justify-content: center;
+}
+.leftpartheader{
+    width: 50%;
+    display: flex;
+}
+.maintitle{
+    font-weight: bolder;
+    list-style: none;
+}
+.navigation{
+    
+}
+.homebuttonb{
+    display: flex;
+    list-style: none;
+}
+.nav-link{
+    font-weight: bolder;
+    margin-left: 5%;
+}
+.nav-link2{
+    margin-left: 5%;
+
+}
+.hco{
+    width: 50%;
+}
+.title{
+    width: 50%;
+}
+.rightpartheader{
+    width: 50%;
+    display: flex;
+}
+.shopicon{
+    width: 2%;
+    height: 2%;
+}
+.customericon{
+    width: 2%;
+    height: 2%;
+    margin-left: 3%;
+}
+.marginrightpartheader{
+    margin-left: 70%;
+}
