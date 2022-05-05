@@ -1,10 +1,11 @@
 body{
     background-color: thistle;
-    margin: ;
+    
 }
 .header-div{
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
+    
 }
 .leftpartheader{
     width: 50%;
@@ -38,16 +39,18 @@ body{
 .rightpartheader{
     width: 50%;
     display: flex;
+    justify-content: end;
 }
 .shopicon{
-    width: 2%;
-    height: 2%;
+    width: 30%;
+    height: 30%;
 }
 .customericon{
-    width: 2%;
-    height: 2%;
-    margin-left: 3%;
+    width: 30%;
+    height: 30%;
+    margin-left: 10%;
 }
 .marginrightpartheader{
-    margin-left: 70%;
+    display: flex;
+    
 }
