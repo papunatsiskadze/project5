@@ -1,5 +1,5 @@
 body{
-    background-color: thistle;
+    background-color: wheat;
 }
 @font-face {
     font-family: 'title-font';
@@ -53,10 +53,9 @@ body{
     margin-left: 10%;
 }
 .marginrightpartheader{
-    display: flex;
-    
+    display: flex;    
 }
-p{
+.ptext{
     margin-top: 40px;
     font-family: 'title-font';
     opacity: 0.7;
@@ -64,6 +63,7 @@ p{
 .section1{
     justify-content: space-between;
     display: flex;
+    margin-top: 100px;
 }
 .marcxenanawili{
     width: 50%;
@@ -80,6 +80,35 @@ p{
     border-radius: 5px;
     background-color: pink;
     font-weight: bolder;
+    font-size: larger;
     padding: 3%;
     width: 30%;
+}
+.section2{
+    margin-left: 3%;
+    width: 100%;
+    justify-content: center;
+}
+.iconrow{
+    display: flex;
+    width: 100%;
+}
+.column5{
+    margin-left: 5%;
+    margin-top: 50px;
+    width: 20%;
+}
+.icontexts{
+    font-weight: bolder;
+}
+.section2-1{
+    width: 40%;
+}
+.iconimgs{
+    width: 50px;
+    height: 50px;
+    margin-left: 20px;
+}
+.section3 {
+    margin-left: 30%;
 }
