@@ -145,3 +145,14 @@ body{
     margin-top: 3.5%;
     
 }
+.footersection{
+    display: flex;
+    justify-content: space-between;
+}
+.footerdiv1{
+    width: 20%;
+
+}
+.bottnav1{
+    list-style: none;
+}
